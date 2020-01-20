@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/app-pixabay-search/static/css/main.e188b651.chunk.css",
+    "main.js": "/app-pixabay-search/static/js/main.884261e7.chunk.js",
+    "main.js.map": "/app-pixabay-search/static/js/main.884261e7.chunk.js.map",
+    "runtime-main.js": "/app-pixabay-search/static/js/runtime-main.1882caad.js",
+    "runtime-main.js.map": "/app-pixabay-search/static/js/runtime-main.1882caad.js.map",
+    "static/js/2.b4cd80c3.chunk.js": "/app-pixabay-search/static/js/2.b4cd80c3.chunk.js",
+    "static/js/2.b4cd80c3.chunk.js.map": "/app-pixabay-search/static/js/2.b4cd80c3.chunk.js.map",
+    "index.html": "/app-pixabay-search/index.html",
+    "precache-manifest.98bf4f19507eb1ad73f8cfe35d4f218f.js": "/app-pixabay-search/precache-manifest.98bf4f19507eb1ad73f8cfe35d4f218f.js",
+    "service-worker.js": "/app-pixabay-search/service-worker.js",
+    "static/css/main.e188b651.chunk.css.map": "/app-pixabay-search/static/css/main.e188b651.chunk.css.map",
+    "static/js/2.b4cd80c3.chunk.js.LICENSE": "/app-pixabay-search/static/js/2.b4cd80c3.chunk.js.LICENSE",
+    "static/media/App.css": "/app-pixabay-search/static/media/DoubleRing.a57a395b.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1882caad.js",
+    "static/js/2.b4cd80c3.chunk.js",
+    "static/css/main.e188b651.chunk.css",
+    "static/js/main.884261e7.chunk.js"
+  ]
+}
